@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ameya Godbole
+name: Pratheek Mallya
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate student in Computer Science
+role: Graduate Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,22 +18,21 @@ organizations:
   url: "https://www.cics.umass.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence in general but most recently, I am focused on question answering.
+bio: 
 
 interests:
 - Artificial Intelligence
 - Machine Learning
-- Natural Language Processing
-- Reinforcement Learning
+- Deep Learning
  
 education:
   courses:
   - course: MSc in Computer Science
     institution: University of Massachusetts, Amherst
     year: 2020
-  - course: BTech in Electronics and Communication Engineering
-    institution: Indian Institute of Technology (IIT), Guwahati
-    year: 2018
+  - course: BE in Electrical and Electronics Engineering
+    institution: Birla Institute of Technology, Mesra
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -48,13 +47,13 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/in/ameyag416/
+  link: https://linkedin.com/in/pratheekmallya/
 - icon: github
   icon_pack: fab
-  link: https://github.com/ameyagodbole
+  link: https://github.com/ryflect
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.in/citations?user=_nzzImgAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=xWXD1yUAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -71,8 +70,4 @@ email: ""
 # - Visitors
 ---
 
-I am a second-year graduate studying **Computer Science** at the **University of Massachusetts (UMass), Amherst**. I completed my B.Tech. in Electronics and Communication Engineering (with a minor in Computer Science and Engineering) from IIT Guwahati in May 2018.
-
-I developed an interest in Machine Learning and Artificial Intelligence during the sophomore year of my undergraduate degree. Consequently, I tried to understand the theory of machine learning as well as apply the same. At the time, I attempted to grasp the theory through extracurricular courses, majorly on Coursera, MIT Opencourseware and Stanford Online. I am making the most of my graduate courses to explore several avenues of machine learning. I am fortunate to be working with fellow graduates at the **Information Extraction and Synthesis Laboratory (IESL)** at UMass.
-
-I sporadically blog (I mostly edit and proof-read) on [Medium](https://medium.com/inveterate-learner).
+I am a second-year Masters student in **Computer Science** at the **College of Information and Computer Sciences** in the **University of Massachusetts, Amherst**. My research interests are in machine learning and artificial intelligence, where I am specifically working on deep learning. 
