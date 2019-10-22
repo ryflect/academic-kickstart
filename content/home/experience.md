@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Data Science Intern"
-  company = "UMass Amherst Center for Data Science"
+  company = "Center for Data Science, UMass Amherst"
   company_url = "https://ds.cs.umass.edu/"
   location = "Massachusetts"
   date_start = "2019-05-22"
