@@ -22,7 +22,7 @@ publication = "At *IEEE International Conference on Computational Intelligence a
 publication_short = "At *ICCIC 2017*"
 
 # Abstract and optional shortened version.
-abstract = "At present the need for automated systems is increasing because of the greater demand of services and the improved efficiency of automated systems. In this paper, we present an approach to automatically navigate a vehicle from a starting location `Point A' to a destination location `Point B', given a video feed from an overhead camera. Our approach towards automating navigation systems is novel and is effective in cases where a large number of vehicles need to be managed in a small area. In this paper, we present the proof of concept of the proposed system. The applications of this work are directed towards warehouse fleet management, distribution and automated control of industrial vehicles."
+abstract = "At present the need for automated systems is increasing because of the greater demand of services and the improved efficiency of automated systems. In this paper, we present an approach to automatically navigate a vehicle from a starting location to a destination location, given a video feed from an overhead camera. Our approach towards automating navigation systems is novel and is effective in cases where a large number of vehicles need to be managed in a small area. In this paper, we present the proof of concept of the proposed system. The applications of this work are directed towards warehouse fleet management, distribution and automated control of industrial vehicles."
 abstract_short = "Proposed and implemented an approach for automated navigation of a vehicle in an indoor setting utilising overhead cameras."
 
 # Featured image thumbnail (optional)
